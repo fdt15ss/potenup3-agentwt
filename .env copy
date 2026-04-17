@@ -1,2 +1,4 @@
 OPENAI_API_KEY = "asd"
 GOOGLE_API_KEY = "sasd"
+NAVER_CLIENT_ID = "a"
+NAVER_CLIENT_SECRET = "sd"

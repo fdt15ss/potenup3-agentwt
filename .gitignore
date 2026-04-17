@@ -10,3 +10,4 @@ wheels/
 .venv
 .env
 /강의 자료/*
+/credential/*
